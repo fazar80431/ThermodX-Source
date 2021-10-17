@@ -12,8 +12,7 @@
 ### ThermodX is an modded thermal engine for some specific devices 
 ### and designed for better and optimal performance by tweaking kernel
 
-## Supported Thermal engines:
-#### Snapdragon 820, 720G, 660, 430.
+## Redmi note 5 pro / sdm 636 special.
 
 ## Inside this module rather than modded thermals:
 #### Kernel tweaks & network tweaks till now
